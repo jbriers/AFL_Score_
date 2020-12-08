@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AFL Score Tracker</string>
+    <string name="afl_logo">AFL Logo</string>
+    <string name="home">Home</string>
+    <string name="goals">Goals:</string>
+    <string name="points">Points:</string>
+    <string name="score_goal">Score Goal</string>
+    <string name="score_point">Score Point</string>
+    <string name="away">Away</string>
+    <string name="reset">reset</string>
+    <string name="trademarkText">Registered trademark: Australian Football League</string>
+</resources>
